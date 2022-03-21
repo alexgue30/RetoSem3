@@ -71,8 +71,10 @@ h1 {
     font-size: 20px;
 }
 
-hr {
-    color: var(--color1);
+.contenedor hr {
+    height: 3px;
+    background-color: #D6E8F8;
+    border: 0;
 }
 
 
