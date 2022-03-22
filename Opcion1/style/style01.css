@@ -28,12 +28,13 @@ h1 {
     text-align:center;
     color: var(--color3);
     font-size:50px;
+    padding-top: 20px;
 }
 
 .card{
    display: flex;
    justify-content: space-evenly;
-   padding-top: 30px;
+   padding-top: 40px;
 }
 
 .card-2{
